@@ -1,0 +1,36 @@
+.wrap{
+    max-width: 1024px;
+    margin: auto;
+}
+h1{
+    font-size: 45px;
+    color: #DE4A4A;
+}
+
+.main{
+    display: flex;
+}
+.left{
+    width: 75%;
+}   
+
+.work_inf, .edu_info{
+    display: flex;
+    margin-top: 15px;
+}
+.year{
+    margin-right: 10px;
+}
+.right{
+    width: 25%;
+    line-height: 30px;
+}
+.det{
+    font-size: 22px;
+}
+.img{
+    margin-left: 35px;
+}
+footer{
+    text-align: center;
+}
